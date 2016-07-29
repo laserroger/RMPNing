@@ -1,0 +1,7 @@
+\contentsline {title}{Glorious Prof Ning, the early decided Nobel laureates}{1}{section*.2}
+\contentsline {abstract}{Abstract}{1}{section*.1}
+\tocdepth@munge 
+\contentsline {section}{\numberline {}Contents}{1}{section*.3}
+\tocdepth@restore 
+\contentsline {section}{\numberline {I}How glorious Prof. Ning nicely treated his weak sons}{1}{section*.4}
+\contentsline {section}{\numberline {II}Pedagogical introduction to glorious Prof. Ning's innovative twisters}{1}{section*.5}
